@@ -1,0 +1,3 @@
+Link card front end with back end
+Add functionality to import cvs file to create cards
+User table - each user has many decks. Each deck has one user.
